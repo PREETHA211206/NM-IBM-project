@@ -1,4 +1,4 @@
-# NM-IBM-project
+
 Overview
 
 The IBM-NJ E-Commerce Card System is a web-based application designed to simplify online shopping transactions. It provides a secure and efficient way for customers to make purchases using digital cards, while offering businesses a platform to manage their products, payments, and customer interactions seamlessly.
